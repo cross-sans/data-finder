@@ -8,6 +8,6 @@ Delete all saved passwords
 User-friendly interface
 # requiements
 you ned PyQt5 installed
-"""python
+```$
 pip install pyqt5
-"""
+```
